@@ -1,3 +1,5 @@
+https://github-readme-stats.vercel.app/api?username=OssamaDev&show_icons=true&theme=dracula
+
 # 👋 Hello devs
 
 ## 😎 Osama Github Profile
