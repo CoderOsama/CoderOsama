@@ -1,20 +1,20 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=CoderOsama&show_icons=true&theme=dracula">
-
-# 👋 Hello devs
-
-<br>
-
-<a href="https://github.com/CoderOsama">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOsama&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
 ## 😎 Osama Github Profile
-
 I am a frontend developer and I mostly use React & Vue in my side projects. if you got any questions you can reach out in the links below.
+<br>
 
 ## &#x1f4c8; GitHub Stats
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=CoderOsama&show_icons=true&theme=dracula">
+<a href="https://github.com/CoderOsama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOsama&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<br>
+
+
+
+
+
+
 
 ## 💖 What programming languages I like
 
